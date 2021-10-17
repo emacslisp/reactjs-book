@@ -1,0 +1,26 @@
+{
+  "name": "reactjs-book",
+  "version": "1.0.0",
+  "description": "reactjs all testing code into this repos",
+  "main": "index.js",
+  "engines": {
+    "node": "14.17.1",
+    "npm": "7.18.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emacslisp/reactjs-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emacslisp/reactjs-book/issues"
+  },
+  "homepage": "https://github.com/emacslisp/reactjs-book#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
